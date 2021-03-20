@@ -1,5 +1,5 @@
-Fakebook-5.0-main\src\main\java\com\example\resttest\ResttestApplication.java (main type) - spusteni backendu
-Fakebook-5.0-main\fakebookfrontend-master - npm start - spusteni frontendu
+\src\main\java\com\example\resttest\ResttestApplication.java (main type) - spusteni backendu
+\fakebookfrontend-master - npm start - spusteni frontendu
 aplikace na odkaze localhost:3000
 
 Je to lehci chaos. Aplikace mam kdyztak rozdelene na odkaze https://github.com/Pavel4444?tab=repositories
